@@ -1,0 +1,5 @@
+requests
+feedparser
+qbittorrent-api
+libtorrent
+dotenv
